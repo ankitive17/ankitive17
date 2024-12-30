@@ -1,6 +1,5 @@
 SQL QUESTIONS
-!--
-*DROP TABLE IF EXISTS employees;
+DROP TABLE IF EXISTS employees;
 CREATE TABLE Employees (
     id INT PRIMARY KEY,
     name VARCHAR(255),
